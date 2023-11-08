@@ -1,0 +1,14 @@
+C:\Users\Corban360\Desktop\curso\CursoUdemy\bin\Debug\net6.0\CursoUdemy.exe
+C:\Users\Corban360\Desktop\curso\CursoUdemy\bin\Debug\net6.0\CursoUdemy.deps.json
+C:\Users\Corban360\Desktop\curso\CursoUdemy\bin\Debug\net6.0\CursoUdemy.runtimeconfig.json
+C:\Users\Corban360\Desktop\curso\CursoUdemy\bin\Debug\net6.0\CursoUdemy.dll
+C:\Users\Corban360\Desktop\curso\CursoUdemy\bin\Debug\net6.0\CursoUdemy.pdb
+C:\Users\Corban360\Desktop\curso\CursoUdemy\obj\Debug\net6.0\CursoUdemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Corban360\Desktop\curso\CursoUdemy\obj\Debug\net6.0\CursoUdemy.AssemblyInfoInputs.cache
+C:\Users\Corban360\Desktop\curso\CursoUdemy\obj\Debug\net6.0\CursoUdemy.AssemblyInfo.cs
+C:\Users\Corban360\Desktop\curso\CursoUdemy\obj\Debug\net6.0\CursoUdemy.csproj.CoreCompileInputs.cache
+C:\Users\Corban360\Desktop\curso\CursoUdemy\obj\Debug\net6.0\CursoUdemy.dll
+C:\Users\Corban360\Desktop\curso\CursoUdemy\obj\Debug\net6.0\refint\CursoUdemy.dll
+C:\Users\Corban360\Desktop\curso\CursoUdemy\obj\Debug\net6.0\CursoUdemy.pdb
+C:\Users\Corban360\Desktop\curso\CursoUdemy\obj\Debug\net6.0\CursoUdemy.genruntimeconfig.cache
+C:\Users\Corban360\Desktop\curso\CursoUdemy\obj\Debug\net6.0\ref\CursoUdemy.dll
