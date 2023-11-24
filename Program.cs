@@ -2,11 +2,13 @@
 using System.Collections.Generic;
 
 using CursoUdemy.Fundamentos;
+using CursoUdemy.EstruturaDeControle;
 
 namespace CursoUdemy {
     class Program {
         static void Main(string[] args) {
             var central = new CentralDeExercicios(new Dictionary<string, Action>() {
+                //Fundamentos
                 {"Primeiro Programa - Fundamentos", PrimeiroPrograma.Executar},
                 {"Comentários - Fundamentos", Comentarios.Executar},
                 {"Variáveis e Constantes - Fundamentos", VariaveisEConstantes.Executar},
@@ -22,6 +24,9 @@ namespace CursoUdemy {
                 {"Operadores de Atribuição - Fundamentos", OperadoresAtribuicao.Executar},
                 {"Operadores Unários - Fundamentos", OperadoresUnarios.Executar},
                 {"Operadore Ternário - Fundamentos", OperadorTernario.Executar},
+                
+                //Estrutura de Controle
+                {"Estrutura IF - Estruturas de Controle", EstruturaIf.Executar},
             
             });
 
