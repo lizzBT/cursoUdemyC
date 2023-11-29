@@ -27,6 +27,9 @@ namespace CursoUdemy {
                 
                 //Estrutura de Controle
                 {"Estrutura IF - Estruturas de Controle", EstruturaIf.Executar},
+                {"Estrutura IF e Else - Estruturas de Controle", EstruturaIfeElse.Executar},
+                {"Estrutura IF e Else e If - Estruturas de Controle", EstruturaIfElseIf.Executar},
+                {"Estrutura Switch - Estruturas de Controle", EstruturaSwitch.Executar},
             
             });
 
